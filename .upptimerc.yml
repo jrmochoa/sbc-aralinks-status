@@ -3,7 +3,7 @@ repo: sbc-aralinks-status
 
 sites:
   - name: SBC JHS 1
-    url: https://sbcjhs1.aralinks.net:1
+    url: https://sbcjhs1.aralinks.net
   - name: SBC JHS 2
     url: https://sbcjhs2.aralinks.net
   - name: SBC GS 1
