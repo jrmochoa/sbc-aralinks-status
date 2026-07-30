@@ -4,19 +4,19 @@
     "url": "https://sbcjhs1.aralinks.net",
     "icon": "https://icons.duckduckgo.com/ip3/sbcjhs1.aralinks.net.ico",
     "slug": "sbc-jhs-1",
-    "status": "up",
-    "uptime": "22.57%",
-    "uptimeDay": "22.57%",
-    "uptimeWeek": "22.57%",
-    "uptimeMonth": "22.57%",
-    "uptimeYear": "22.57%",
+    "status": "down",
+    "uptime": "82.43%",
+    "uptimeDay": "82.43%",
+    "uptimeWeek": "82.43%",
+    "uptimeMonth": "82.43%",
+    "uptimeYear": "82.43%",
     "time": 1879,
     "timeDay": 1879,
     "timeWeek": 1879,
     "timeMonth": 1879,
     "timeYear": 1879,
     "dailyMinutesDown": {
-      "2026-07-30": 22
+      "2026-07-30": 25
     }
   },
   {
