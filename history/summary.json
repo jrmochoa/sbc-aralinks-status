@@ -1,22 +1,22 @@
 [
   {
     "name": "SBC JHS 1",
-    "url": "https://sbcjhs1.aralinks.net:1",
+    "url": "https://sbcjhs1.aralinks.net",
     "icon": "https://icons.duckduckgo.com/ip3/sbcjhs1.aralinks.net.ico",
     "slug": "sbc-jhs-1",
-    "status": "down",
-    "uptime": "96.36%",
-    "uptimeDay": "96.36%",
-    "uptimeWeek": "96.36%",
-    "uptimeMonth": "96.36%",
-    "uptimeYear": "96.36%",
-    "time": 0,
-    "timeDay": 0,
-    "timeWeek": 0,
-    "timeMonth": 0,
-    "timeYear": 0,
+    "status": "up",
+    "uptime": "18.68%",
+    "uptimeDay": "18.68%",
+    "uptimeWeek": "18.68%",
+    "uptimeMonth": "18.68%",
+    "uptimeYear": "18.68%",
+    "time": 1879,
+    "timeDay": 1879,
+    "timeWeek": 1879,
+    "timeMonth": 1879,
+    "timeYear": 1879,
     "dailyMinutesDown": {
-      "2026-07-30": 0
+      "2026-07-30": 22
     }
   },
   {
