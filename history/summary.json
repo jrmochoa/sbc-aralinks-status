@@ -5,11 +5,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/sbcjhs1.aralinks.net.ico",
     "slug": "sbc-jhs-1",
     "status": "down",
-    "uptime": "85.80%",
-    "uptimeDay": "85.80%",
-    "uptimeWeek": "85.80%",
-    "uptimeMonth": "85.80%",
-    "uptimeYear": "85.80%",
+    "uptime": "83.42%",
+    "uptimeDay": "83.42%",
+    "uptimeWeek": "83.42%",
+    "uptimeMonth": "83.42%",
+    "uptimeYear": "83.42%",
     "time": 1914,
     "timeDay": 1914,
     "timeWeek": 1914,
@@ -17,7 +17,7 @@
     "timeYear": 1914,
     "dailyMinutesDown": {
       "2026-07-30": 178,
-      "2026-07-31": 20
+      "2026-07-31": 59
     }
   },
   {
@@ -26,18 +26,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/sbcjhs2.aralinks.net.ico",
     "slug": "sbc-jhs-2",
     "status": "down",
-    "uptime": "98.94%",
-    "uptimeDay": "98.94%",
-    "uptimeWeek": "98.94%",
-    "uptimeMonth": "98.94%",
-    "uptimeYear": "98.94%",
+    "uptime": "96.19%",
+    "uptimeDay": "96.19%",
+    "uptimeWeek": "96.19%",
+    "uptimeMonth": "96.19%",
+    "uptimeYear": "96.19%",
     "time": 1602,
     "timeDay": 1602,
     "timeWeek": 1602,
     "timeMonth": 1602,
     "timeYear": 1602,
     "dailyMinutesDown": {
-      "2026-07-31": 15
+      "2026-07-31": 54
     }
   },
   {
@@ -46,18 +46,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/sbcgs1.aralinks.net.ico",
     "slug": "sbc-gs-1",
     "status": "down",
-    "uptime": "99.29%",
-    "uptimeDay": "99.29%",
-    "uptimeWeek": "99.29%",
-    "uptimeMonth": "99.29%",
-    "uptimeYear": "99.29%",
+    "uptime": "96.53%",
+    "uptimeDay": "96.53%",
+    "uptimeWeek": "96.53%",
+    "uptimeMonth": "96.53%",
+    "uptimeYear": "96.53%",
     "time": 1562,
     "timeDay": 1562,
     "timeWeek": 1562,
     "timeMonth": 1562,
     "timeYear": 1562,
     "dailyMinutesDown": {
-      "2026-07-31": 10
+      "2026-07-31": 49
     }
   },
   {
@@ -66,18 +66,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/sbcgs2.aralinks.net.ico",
     "slug": "sbc-gs-2",
     "status": "down",
-    "uptime": "99.64%",
-    "uptimeDay": "99.64%",
-    "uptimeWeek": "99.64%",
-    "uptimeMonth": "99.64%",
-    "uptimeYear": "99.64%",
+    "uptime": "96.88%",
+    "uptimeDay": "96.88%",
+    "uptimeWeek": "96.88%",
+    "uptimeMonth": "96.88%",
+    "uptimeYear": "96.88%",
     "time": 1466,
     "timeDay": 1466,
     "timeWeek": 1466,
     "timeMonth": 1466,
     "timeYear": 1466,
     "dailyMinutesDown": {
-      "2026-07-31": 5
+      "2026-07-31": 44
     }
   },
   {
@@ -86,16 +86,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/sbcshs.aralinks.net.ico",
     "slug": "sbc-shs",
     "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "uptime": "97.22%",
+    "uptimeDay": "97.22%",
+    "uptimeWeek": "97.22%",
+    "uptimeMonth": "97.22%",
+    "uptimeYear": "97.22%",
     "time": 1485,
     "timeDay": 1485,
     "timeWeek": 1485,
     "timeMonth": 1485,
     "timeYear": 1485,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2026-07-31": 40
+    }
   }
 ]
